@@ -1,0 +1,11 @@
+bkoder
+Burger King Code Generator
+
+Look at: https://www.bk-feedback-de.com/Index.aspx?LanguageID=en-GB
+
+Features:
+- code extraction
+- cache system
+- interprocess communication: no conflicts on simultaneous cache accesses by several bkoder processes
+
+Contact: edik@edik.ch
